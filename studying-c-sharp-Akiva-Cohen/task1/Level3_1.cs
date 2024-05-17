@@ -11,6 +11,7 @@ namespace studying_c_sharp_Akiva_Cohen.task1
         public static void RunMe()
         {
             Console.WriteLine("Hi, I am class Level3_1");
+            Level3_2.RunMe();
         }
     }
 }
