@@ -1,5 +1,4 @@
-﻿using c_sharp_basics_lingar.general;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 

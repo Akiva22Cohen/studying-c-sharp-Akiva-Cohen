@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using c_sharp_basics_lingar.object_basics;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        //ObjectPattern.Demo();
+        TestClassroom.Demo();
+    }
+}
